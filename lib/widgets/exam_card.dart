@@ -32,7 +32,6 @@ class ExamCard extends StatelessWidget {
               ),
               SizedBox(height: 8),
               Row(
-                // mainAxisAlignment: MainAxisAlignment.start,
                 children: [
                   Icon(Icons.calendar_month, size: 18, color: Colors.black),
                   SizedBox(width: 6),
